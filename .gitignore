@@ -3,3 +3,6 @@
 
 # SQL password file
 modele/sql.class.php
+
+.htaccess
+.htpasswd

@@ -1,2 +1,5 @@
 # swap files
 *.swp
+
+# SQL password file
+modele/sql.class.php
